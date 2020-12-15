@@ -3,6 +3,6 @@ Random walk’s correlation function for multi-objective NK landscapes and quadr
 
 Mathematica code for the article 
 
-Random walk’s correlation function for multi-objective NK landscapes and quadratic assignment problem
-MM Drugan
+Random walk’s correlation function for multi-objective NK landscapes and quadratic assignment problem, (2019),
+MM Drugan, 
 Journal of Combinatorial Optimization 38 (4), 1213-1262
